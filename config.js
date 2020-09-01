@@ -1,14 +1,14 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https:www.bobgrewal.com',
   pathPrefix: '/',
   title: 'Bob Grewal - Thoughts on business and M&A',
-  subtitle: 'Bob Grewal's website',
+  subtitle: 'Bob Grewal,
   copyright: '© 2020 All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'XXXXXXXX',
   useKatex: false,
   menu: [
     {
@@ -30,14 +30,14 @@ module.exports = {
     bio: 'Mergers & Acquisitions Advisor',
     contacts: {
       email: 'bob@seapointadvisors.com',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      facebook: '',
+      telegram: '',
+      twitter: '',
+      github: '',
       rss: '',
       vkontakte: '',
       linkedin: 'bobgrewal',
-      instagram: '#',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',
