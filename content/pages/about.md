@@ -1,13 +1,7 @@
 ---
 title: "About me"
 template: "page"
-socialImage: "/media/image-2.jpg"
+socialImage: "#"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
-
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
-
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
-
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+Bob is a mergers & acquisitions (M&A) advisor and President of Seapoint Business Advisors. He has expertise in the sale of businesses in a broad set of industries including business services, manufacturing, wholesale/distribution, healthcare, consumer products, and technology services. He has earned high praise from sellers and buyers for his outstanding level of commitment, financial acumen, work ethic, and creativity in getting deals done the right way. Through his experience, Bob has helped sellers complete transactions with a wide variety of buyers including private equity professionals, high net worth individuals, and large acquisition-minded corporations. He works with business owners that have revenue between $1 million and $30 million by helping them prepare their business for sale, generating opinions of value, and general consulting. He takes tremendous pride in providing each client with a high level of attention and responsive service. Bob knows what it is like to be a business owner. Prior to Seapoint, Bob founded, built, and successfully sold a consumer products manufacturing company. Before building his own company, he spent 15 years in sales at several successful technology companies. Bob is a Certified Mergers and Acquisition Advisor (CM&AA) with the Alliance of M&A Advisors, Merger and Acquisition Master Intermediary (M&AMI) with the M&A Source association, a member of the International Association of Business Brokers (IBBA),  licensed broker with the California Bureau of Real Estate,  certified business broker (CBB),  member of the Board of Directors with the California Association of Business Brokers (CABB), and earned a Bachelor of Science in Finance from California State University Northridge.
