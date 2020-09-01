@@ -5,7 +5,7 @@ module.exports = {
   pathPrefix: '/',
   title: 'Bob Grewal - Thoughts on business and M&A',
   subtitle: 'Bob Grewal',
-  copyright: '© 2020 All rights reserved.',
+  copyright: '© 2020 Bob Grewal All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: 'XXXXXXXX',
