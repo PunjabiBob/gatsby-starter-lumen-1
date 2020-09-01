@@ -4,7 +4,7 @@ module.exports = {
   url: 'https:www.bobgrewal.com',
   pathPrefix: '/',
   title: 'Bob Grewal - Thoughts on business and M&A',
-  subtitle: 'Bob Grewal,
+  subtitle: 'Bob Grewal',
   copyright: '© 2020 All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
