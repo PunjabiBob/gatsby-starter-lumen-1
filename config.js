@@ -28,6 +28,7 @@ module.exports = {
     name: 'Bob Grewal',
     photo: '/photo.png',
     bio: 'Seapoint Business Advisors',
+    
     contacts: {
       email: 'bob@seapointadvisors.com',
       facebook: '',
