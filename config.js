@@ -26,7 +26,7 @@ module.exports = {
   ],
   author: {
     name: 'Bob Grewal',
-    photo: '/photo.jpg',
+    photo: '/photo.png',
     bio: 'Mergers & Acquisitions Advisor',
     contacts: {
       email: '',
